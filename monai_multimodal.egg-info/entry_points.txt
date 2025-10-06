@@ -1,0 +1,2 @@
+[console_scripts]
+mm-convert = monai_multimodal.cli:main
